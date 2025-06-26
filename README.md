@@ -1,2 +1,12 @@
-# burns-analyst-interface
-the user interface to interact with my burns analyst
+---
+title: ai-burns-assessment
+emoji: 🐳
+colorFrom: purple
+colorTo: yellow
+sdk: static
+pinned: false
+tags:
+  - deepsite
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
